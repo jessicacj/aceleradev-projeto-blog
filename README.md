@@ -1,6 +1,3 @@
-# aceleradev-projeto-blog
-https://img.shields.io/badge/front--end-html-orange
-
 <h1 align="center">
 <h1> Projeto Blog: {Mulheres na Tecnologia}/>
   <br />
