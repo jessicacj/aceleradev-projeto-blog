@@ -1,9 +1,7 @@
 <h1 align="center">
 <p> Projeto Blog: {Mulheres na Tecnologia} <p/>
-  <br />
   <img src="https://img.shields.io/badge/front--end-html-orange" />
   <img src="https://img.shields.io/badge/style-css-green" />
-<br />
 </h1>
 
 ## Layout Web
